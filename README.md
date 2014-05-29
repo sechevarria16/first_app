@@ -1,6 +1,4 @@
-== README
 
-application up and running.
 
 #first application
 
